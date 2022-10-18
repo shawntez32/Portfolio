@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #141E61;
-  --color-secondary: #787A91;
+  --color-secondary: #050505;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -206,7 +206,7 @@ section {
   right: 0;
   top: 0;
   z-index: -1;
-  clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+  clip-path: polygon(69% 0, 98% 0, 75% 100%, 29% 100%);
 }
 
 /*About*/
